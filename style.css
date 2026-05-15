@@ -1,0 +1,51 @@
+body {
+  font-family: Arial;
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+nav {
+  background: linear-gradient(to right, #4e54c8, #8f94fb);
+}
+
+/* Sections */
+section {
+  padding: 60px 20px;
+}
+
+/* Home */
+#home {
+  text-align: center;
+  color: #333;
+}
+
+#home h1 {
+  color: #4e54c8;
+  font-size: 45px;
+}
+
+/* Headings */
+h2 {
+  color: #4e54c8;
+  margin-bottom: 20px;
+}
+
+/* Skills */
+ul li {
+  padding: 8px;
+  font-size: 18px;
+}
+
+/* Project Card */
+.card {
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Contact */
+#contact {
+  background-color: #e9ecff;
+  border-radius: 15px;
+}
